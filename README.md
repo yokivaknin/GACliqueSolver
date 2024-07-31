@@ -38,12 +38,12 @@ The project's purpose is to delve into the application of Genetic Algorithms (GA
 
 1.The following graph illustrates the average execution time (in milliseconds) on the y-axis (note that the y-axis is logaritmic) versus the number of vertices in the graph on the x-axis, based on 50 runs for each algorithm. The parameters for these tests were set as follows:
 
-Population size: 100
-Edge sparsity: 0.15
-Mutation rate: 0.2
-Clique size: 10
-Disaster kill percentage: 0.9
-Time disaster occurs: 1000
+- Population size: 100
+- Edge sparsity: 0.15
+- Mutation rate: 0.2
+- Clique size: 10
+- Disaster kill percentage: 0.9
+- Time disaster occurs: 1000
 
 ![ES0 15POP100MU0 2CS10DK1000AVG50](https://github.com/user-attachments/assets/5ab75431-4345-48d3-a84b-929ac0b75676)
 

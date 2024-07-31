@@ -49,13 +49,13 @@ The project's purpose is to delve into the application of Genetic Algorithms (GA
 
 2. The following graph depicts the fitness of the best individual in each generation on the y-axis, with the number of generations represented on the x-axis (note that the x-axis is logarithmic). The parameters for these tests were set as follows:
 
-Population size: 100
-Edge sparsity: 0.15
-Mutation rate: 0.3
-Clique size: 20
-Disaster kill percentage: 0.9
-Time disaster occurs: 1000
-Number of vertices: 1500
+- Population size: 100
+- Edge sparsity: 0.15
+- Mutation rate: 0.3
+- Clique size: 20
+- Disaster kill percentage: 0.9
+- Time disaster occurs: 1000
+- Number of vertices: 1500
 
 * The search space for a clique of size 20 from 1500 vertices is approximately 1/(1500 choose 20) = 8.3 * 10^-46.
 
